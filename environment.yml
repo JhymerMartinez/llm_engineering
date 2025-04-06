@@ -34,15 +34,14 @@ dependencies:
   - duckdb
   - feedparser
   - pip:
-    - transformers
-    - sentence-transformers
-    - datasets
-    - accelerate
-    - sentencepiece
-    - bitsandbytes
-    - openai
-    - gradio
-    - gensim
-    - modal
-    - ollama
-
+      - transformers
+      - sentence-transformers
+      - datasets
+      - accelerate
+      - sentencepiece
+      - bitsandbytes
+      - openai
+      - gradio
+      - gensim
+      - modal
+      - ollama
